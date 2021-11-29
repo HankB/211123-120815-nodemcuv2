@@ -38,7 +38,7 @@ Development has been performed on Debian Linux and using the `mosquitto` MQTT br
 
 ## Status
 
-Not fully functional.
+Working as expected.
 
 * Attach to AP works (Using WPA2.)
 * Connection to broker works.
