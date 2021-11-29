@@ -22,7 +22,7 @@ Build something that does a bit more than blink an LED and builds and works corr
 1. Run an MQTT server for testing. This is trivially easy on Debian Linux and is run on the same host used for development. (If you are using Mosquitto 2.0 or later you may need to configure it to accept anonymous connections.)
 1. Install Visual Studio Code and add the PlatformIO extension.
 1. Import the existing Arduino project (This was my process, not needed if you clone this repo)
-1. Select the correct board definition (`Espressif ESP8266 ESP-12E` for my board.)
+1. Select the correct board definition (`NodeMCU 1.0 (ESP-12E Module)` for my board.)
 1. Add the pubsubclient library produced by Nick O'Leary. <https://github.com/knolleary/pubsubclient> (QUICK ACCESS > PIO Home > Libraries and search "pubsubclient")
 
 ## Usage
