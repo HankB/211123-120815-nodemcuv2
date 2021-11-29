@@ -51,4 +51,3 @@ Not fully functional.
 ```
 
 * Working as desired after renaming `src/mqtt_esp8266.ino` to `src/main.cpp`.
-
